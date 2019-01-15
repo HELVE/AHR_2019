@@ -2,8 +2,9 @@
 > Initiating data analysis modules. Visualizing.
 > Data chunks in position - generating final output.
 
-What will the report contain?
-Covert data analysis theme.
+Covert data analysis visual theme of the report.
+
+**What will the report contain?**
 
 What happened.
 
