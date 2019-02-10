@@ -2,6 +2,8 @@
 > Initiating data analysis modules. Visualizing.
 > Data chunks in position - generating final output.
 
+Printable.
+
 Covert data analysis visual theme of the report.
 
 **2019 01 -** Reassessment of life priorities. Mental and physical preparations for taking things into my own hands.
